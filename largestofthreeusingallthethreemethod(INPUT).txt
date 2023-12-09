@@ -1,4 +1,4 @@
-USING TERNARY METHOD:-
+//USING TERNARY METHOD:-
 #include <stdio.h>
 void main() 
 {
@@ -15,7 +15,7 @@ void main()
     printf("The largest number is: %d\n", largest);
 }
 
-USING ELSE-IF:-
+//USING ELSE-IF:-
 
 #include<stdio.h>
 void main()
@@ -35,7 +35,7 @@ int num1,num2,num3;
    }
 }
 
-USING NESTED IF:-
+//USING NESTED IF:-
 
 #include<stdio.h>
 void main()
